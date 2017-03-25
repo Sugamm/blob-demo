@@ -16,11 +16,11 @@ CREATE TABLE files (
 
 #### Insert into table
 
-[![IMAGE ALT TEXT HERE](https://github.com/Sugamm/blob-demo/blob/master/screenshots/db.png)]
+![IMAGE ALT TEXT HERE](https://github.com/Sugamm/blob-demo/blob/master/screenshots/db.png)
 
 
 #### Select BLOB From table
 
-[![IMAGE ALT TEXT HERE](https://github.com/Sugamm/blob-demo/blob/master/screenshots/1.png)]
+![IMAGE ALT TEXT HERE](https://github.com/Sugamm/blob-demo/blob/master/screenshots/1.png)
 
 ---
